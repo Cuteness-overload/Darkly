@@ -8,9 +8,3 @@ While this did not give any results on our website, we can notice that the page 
 ```
 http://127.0.0.1:4443/?page=../../../../../../../../../../../etc/passwd
 ```
-
-## Flag
-Doing this gives us the following flag:
-```
-b12c4b2cb8094750ae121a676269aa9e2872d07c06e429d25a63196ec1c8c1d0 
-```

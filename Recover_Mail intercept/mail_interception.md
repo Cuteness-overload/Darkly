@@ -7,10 +7,3 @@ webmaster@borntosec.com
 ```
 when we submit the request. By modifying the value of that form , we should be able to intercept the email and potentially do nefarious things. 
 THIS SHOULD BE SERVER SIDE LOGIC.
-
-## Flag
-
-Doing that manipulation grants us the following flag:
-```
-1d4855f7337c0c14b6f44946872c4eb33853f40b2d54393fbe94f49f1e19bbb0
-```

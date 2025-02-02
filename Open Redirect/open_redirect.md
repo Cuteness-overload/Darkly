@@ -6,9 +6,3 @@ http://127.0.0.1:4443/index.php?page=redirect&site=facebook
 vs
 http://127.0.0.1:4443/index.php?page=redirect&site=malicious
 ```
-
-# Flag
-Doing this gives us the following flag:
-```
-b9e775a0291fed784a2d9680fcfad7edd6b8cdf87648da647aaf4bba288bcab3
-```

@@ -17,10 +17,3 @@ Let's use this browser : "ft_bornToSec". It will help you a lot.
 I resent the request for this webpage, but modifying the User-Agent and overwriting the Referrer as follows:
 
 ![modified_request](modified_request.png)
-
-## Flag
-
-Here is the flag resulting from this vulnerability:
-```
-f2a29020ef3132e01dd61df97fd33ec8d7fcd1388cc9601e7db691d17d4d6188
-```

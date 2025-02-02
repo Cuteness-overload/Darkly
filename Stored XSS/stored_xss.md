@@ -17,8 +17,4 @@ This indeed gives us a popup saying XSS once submitted (and on every page refres
 
 But still no flag D: Well it turns out the site is very wierdly coded.
 
-## Flag
 All you needed to do to get the flag was write "script" into the name or message field. WTF.
-```
-0fbb54bbf7d099713ca4be297e1bc7da0173d8b3c21c1811b916a3a86652724e
-```

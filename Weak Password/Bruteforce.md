@@ -7,9 +7,3 @@ I decided to try this approach on the signin page, hoping to get lucky. I knew t
 I also utilised a commonly used file named "rockyou.txt" which contains a list of the most common passwords.
 
 Please see the script for more details. The password has been moved up in the list so as to make the demonstration quicker. it was initially position 73.
-
-## Flag
-
-```
-b3a6e43ddf8b4bbb4125e5e7d23040433827759d4de1c04ea63907479a80a6b2
-```

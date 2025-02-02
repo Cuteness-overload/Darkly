@@ -79,11 +79,5 @@ We can't seem to access the other tables beside users at the moment. Querys to t
 Table 'Member_Sql_Injection.'table_name'' doesn't exist
 ```
 
-## Flag
-
 Following the instructions in the commentaire section, we decrypt "5ff9d0165b4f92b14994e5c685cdce28", which is the MD5 hash of "FortyTwo".
 making it lowercase and hashing it in sha256 results in the following:
-
-```
-10a16d834f9b1e4068b25c4c46fe0284e99e44dceaf08098fc83925ba6310ff5
-```
